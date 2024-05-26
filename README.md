@@ -22,7 +22,7 @@ Here are a few projects I've been working on:
 - GitHub: [Code Canvas](https://github.com/code-canvas)
 - LinkedIn: [Aamod Kumar](https://www.linkedin.com/in/aamod-kumar/)
 - Twitter: [@aamodkumar_](https://twitter.com/aamodkumar_)
-- Instagram: [@aamod.kumar](https://www.instagram.com/aamod.kumar/)
+- Instagram: [@aamod.kumar](https://www.instagram.com/codecanvas.io/)
 
 Feel free to explore my repositories and reach out if you have any questions or suggestions!
 
