@@ -1,6 +1,6 @@
 # Hi there, I'm Aamod Kumar! 👋
 
-Welcome to my GitHub profile! I'm a software developer and enthusiast, passionate about creating projects in MySQL, Java, Python, and Arduino. Below you'll find an overview of my skills and interests:
+Welcome to my GitHub profile! I'm a future upcoming developer and enthusiast, passionate about creating projects in MySQL, Java, Python, and Arduino. Below you'll find an overview of my skills and interests:
 
 ## Skills
 
