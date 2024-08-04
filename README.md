@@ -20,7 +20,7 @@ Here are a few projects I've been working on:
 ## Connect with Me
 
 - GitHub: [Code Canvas](https://github.com/Aamod007)
-- LinkedIn: [Aamod Kumar]([https://www.linkedin.com/in/aamod-kumar/](https://www.linkedin.com/in/aamod-kumar-9882782ab/)
+- LinkedIn: [Aamod Kumar](https://www.linkedin.com/in/aamod-kumar/](https://www.linkedin.com/in/aamod-kumar-9882782ab/)
 - Twitter: [@aamodkumar_](https://twitter.com/aamodkumar_)
 - Instagram: [@aamod.kumar](https://www.instagram.com/codecanvas.io/)
 
