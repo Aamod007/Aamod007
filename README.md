@@ -1,16 +1,13 @@
 # Aamod Kumar - AI & Data Engineering Enthusiast 🚀
 
----
-
 ## 😊 About Me
-
----
 
 Hello! I'm **Aamod Kumar**, a passionate student specializing in **Artificial Intelligence and Data Engineering**. My interests span across **Cybersecurity**, **3D Modeling**, and **Robotics**, where I strive to merge creativity and technology to build impactful solutions.
 
 ---
 
 ### 🧠 Key Interests:
+
 - **Artificial Intelligence**: Harnessing data to create predictive models and intelligent systems.
 - **Cybersecurity**: Building secure systems to ensure data integrity and protection.
 - **3D Modeling**: Crafting interactive and visually stunning 3D designs for simulations and projects.
@@ -26,8 +23,6 @@ Hello! I'm **Aamod Kumar**, a passionate student specializing in **Artificial In
 
 ## 💻 Technical Skills
 
----
-
 - **Programming Languages**: Python, JavaScript, C++, SQL
 - **AI & Machine Learning**: TensorFlow, PyTorch, Scikit-learn
 - **Cybersecurity**: OpenSSL, Python Cryptography Toolkit
@@ -38,8 +33,6 @@ Hello! I'm **Aamod Kumar**, a passionate student specializing in **Artificial In
 ---
 
 # Notable Projects
-
----
 
 ### 1. **AI-Powered Speech Coach Platform**  
 🎤 **Description**: Developed a speech analysis tool that provides real-time feedback, personalized training, exercises, and practice materials to help users enhance their speech skills.
@@ -56,15 +49,11 @@ Hello! I'm **Aamod Kumar**, a passionate student specializing in **Artificial In
 ### 5. **Generative AI-Based Fashion Design Platform**  
 👗 **Description**: Launched a platform that combines AI with creativity to empower fashion designers and students, providing design inspiration, trends, and idea generation powered by AI.
 
----
 For more details, check out the respective project repositories or contact me for further information!
-
 
 ---
 
 ## 🛠️ Tools and Technologies
-
----
 
 <p align="left">
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
@@ -88,8 +77,6 @@ For more details, check out the respective project repositories or contact me fo
 
 ## 📩 Get in Touch
 
----
-
 Feel free to connect with me for collaborations, project ideas, or just a chat about technology!
 
 - **Email**: aamod.kumar@example.com
@@ -103,8 +90,6 @@ Feel free to connect with me for collaborations, project ideas, or just a chat a
 ---
 
 ## ✨ Fun Fact
-
----
 
 When I’m not coding or tinkering with robotics, I enjoy sketching and calligraphy, blending artistic expression with my love for technology!
 
