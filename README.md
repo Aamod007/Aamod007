@@ -1,12 +1,5 @@
 # Aamod Kumar - AI & Data Engineering Enthusiast 🚀
 
-![Profile Logo](https://via.placeholder.com/150)
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AamodKumar&show_icons=true&theme=radical" alt="Aamod's GitHub stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AamodKumar&theme=radical" alt="Aamod's GitHub Streak"/>
-</div>
-
 ---
 
 ## 😊 About Me
@@ -116,6 +109,11 @@ Feel free to connect with me for collaborations, project ideas, or just a chat a
 When I’m not coding or tinkering with robotics, I enjoy sketching and calligraphy, blending artistic expression with my love for technology!
 
 ---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AamodKumar&show_icons=true&theme=radical" alt="Aamod's GitHub stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AamodKumar&theme=radical" alt="Aamod's GitHub Streak"/>
+</div>
 
 <div align="center">
   <h3>📊 My GitHub Stats Bar</h3>
