@@ -13,8 +13,6 @@ Hello! I'm **Aamod Kumar**, a passionate student specializing in **Artificial In
 - **3D Modeling**: Crafting interactive and visually stunning 3D designs for simulations and projects.
 - **Robotics**: Exploring automation and control systems to bring ideas to life.
 
----
-
 <div align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="AI Animation" width="300"/>
 </div>
