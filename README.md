@@ -1,109 +1,120 @@
-<h2 align="left">Hi 👋! I'm Aamod Kumar — Developer, Innovator & Tech Explorer from Lucknow, India 🇮🇳</h2>
+<h1 align="center">Hey there! 👋 I'm <span style="color:#9328E7;">Aamod Kumar</span></h1>
+<h3 align="center">Creative Technologist | Embedded Innovator | AI Explorer | Developer with a Vision 🚀</h3>
 
-🚀 Passionate about building impactful tech using **AI, IoT, Embedded Systems, and Full-Stack Development**  
-🎓 Currently pursuing **B.Tech in Computer Science (AI & Data Engineering)**  
-🧠 Always curious, always experimenting — whether it’s automating a train system or building a Discord bot powered by ancient wisdom 😄  
-🌟 I believe in *learning by doing* and solving *real-world problems* with code and creativity!
+<p align="center">From the bylanes of Lucknow to the edges of innovation 🌍 — I’m here to build, learn, and inspire through tech.</p>
 
 ---
 
-### 🔥 Featured Projects
+<img align="right" height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDE0aXB5NTQ0eWFzemdmcnM1Y3d2eG1pa3U5MTdjbnpmMHQxMmQ1cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0lGd2OXXHe4tFhb7Wh/giphy.gif" />
 
-🧠 **ChanakyaX – The Strategist Discord Bot**  
-> A smart bot that blends Chanakya’s ancient wisdom with AI-powered productivity tools. Built to help users with strategy tips, quotes, focus hacks, and goal setting.  
-🛠️ *Tech:* TypeScript · Discord.js · OpenAI API  
+### 🧠 Who am I?
 
-🚊 **Smart Train Detection & Lighting System**  
-> An Arduino-powered system that lights up street LEDs only when a train is nearby. Optimized for energy efficiency and safety.  
-🛠️ *Tech:* Arduino · ESP32-CAM · Embedded C · LEDs  
-
-🏠 **Bluetooth-Based Home Automation**  
-> Control home appliances via smartphone using Bluetooth and Arduino. Perfect for affordable smart homes.  
-🛠️ *Tech:* Arduino Uno · HC-05 · Relay Module · C++  
-
-🌐 **CODEXGAME – Gamer's Dev Hub**  
-> A modern web platform with blogs, tutorials, and game dev resources built for creators and gamers.  
-🛠️ *Tech:* HTML · CSS · JavaScript  
-
-🧪 **Ethical Hacking Terminal Toolkit** *(For Learning)*  
-> Built a terminal-based toolkit for beginners to practice ethical hacking tasks like port scanning and packet sniffing.  
-🛠️ *Tech:* Python · Bash · Linux · Nmap  
-
-📘 **Product Design Portfolio Site**  
-> A creative and educational website to showcase modern product design principles, tools, and ideas.  
-🛠️ *Tech:* HTML · CSS · JS · Figma
+🔬 I'm a CSE undergrad specializing in **AI & Data Engineering**  
+⚡ I turn **complex problems into real-world prototypes** with code, circuits & creativity  
+💡 I believe the **intersection of software + hardware + AI** is where the magic happens  
+🎯 I build with one goal — **impact-driven innovation**  
 
 ---
 
-### 🧠 Tech Stack & Tools
+### 🎯 My Featured Projects (with Live Demos!)
+
+#### ⚔️ ChanakyaX – AI Strategist Discord Bot  
+[![View Project](https://img.shields.io/badge/GitHub-View_Project-black?logo=github&style=for-the-badge)](https://github.com/Aamod007/chanakyax)  
+> Inspired by Chanakya’s wisdom, powered by OpenAI. This bot gives productivity prompts, AI insights, and strategic clarity.
+
+<img src="https://github.com/Aamod007/chanakyax/blob/main/media/demo.gif" width="600" alt="ChanakyaX Demo"/>
+
+---
+
+#### 🚊 Smart Train Detection & LED System  
+[![View Project](https://img.shields.io/badge/GitHub-View_Project-black?logo=github&style=for-the-badge)](https://github.com/Aamod007/train-light-system)  
+> A real-time LED lighting system activated by train movement — built with Arduino & ESP32-CAM for surveillance and efficiency.
+
+<img src="https://github.com/Aamod007/train-light-system/blob/main/media/train.gif" width="600" alt="Train System Demo"/>
+
+---
+
+#### 🎮 CODEXGAME – Dev & Gaming Portal  
+[![Live Site](https://img.shields.io/badge/Visit-Site-green?style=for-the-badge&logo=vercel)](https://aamod007.github.io/CODEXGAME/)  
+[![View Code](https://img.shields.io/badge/GitHub-View_Code-black?logo=github&style=for-the-badge)](https://github.com/Aamod007/CODEXGAME)  
+> A community-focused dev platform to share gaming blogs, development guides, and resources.
+
+<img src="https://github.com/Aamod007/CODEXGAME/blob/main/media/codexdemo.gif" width="600" alt="CodexGame Preview"/>
+
+---
+
+#### 🔌 Bluetooth-Based Home Automation  
+[![View Code](https://img.shields.io/badge/GitHub-View_Code-black?logo=github&style=for-the-badge)](https://github.com/Aamod007/home-automation)  
+> Turn on/off appliances via smartphone using Bluetooth and relay modules. Efficient and DIY-friendly!
+
+---
+
+### 🧰 Toolbox I Play With
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="30" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" />
-  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" />
 </div>
 
 ---
 
-### 📊 GitHub Activity
+### 🌓 GitHub Stats – Light/Dark Mode Toggle
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aamod007&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Aamod007&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="150" />
-</div>
+<details>
+  <summary>🌞 Light Mode Stats</summary>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=Aamod007&theme=default&show_icons=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Aamod007&layout=compact&theme=default" height="150" />
+
+</details>
+
+<details>
+  <summary>🌚 Dark Mode Stats</summary>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=Aamod007&theme=dracula&show_icons=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Aamod007&layout=compact&theme=dracula" height="150" />
+
+</details>
 
 ---
 
-### 🌐 Connect with Me
+### 🔗 Connect with Me
 
-<div align="left">
+<p align="left">
   <a href="https://www.instagram.com/aamodkumar06/?next=%2F" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="35" />
   </a>
   <a href="https://www.linkedin.com/in/aamod-kumar-9882782ab" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" />
   </a>
-</div>
+</p>
 
 ---
-
-<br clear="both">
 
 <img src="https://raw.githubusercontent.com/Aamod007/Aamod007/output/snake.svg" alt="Snake animation" />
 
 ---
 
-### 🌟 Fun & Facts
+### 🌈 A Few Things About Me
 
-- 🛠️ I build things that solve problems creatively — whether it’s light, data, or decisions
-- 🧠 I'm known for deep thoughts, clean UI, and a love for mixing tech with art
-- 🎨 Sketching, hacking, coding — my life runs on curiosity
-- ✍️ Building my personal brand, one bold idea at a time
+- 🧠 I blend creativity + logic to build systems that feel alive  
+- 🎯 I don’t wait for opportunities — I build them  
+- 🖋️ Sketching, hacking, product designing, writing—everything is art  
+- 🧪 I'm a walking lab of ideas — always experimenting  
 
 ---
 
-⭐️ *Made with passion by [Aamod007](https://github.com/Aamod007)*
+<h3 align="center">Let’s turn ideas into impact 🚀</h3>
+<p align="center">⭐️ Built with heart by <a href="https://github.com/Aamod007">Aamod Kumar</a></p>
