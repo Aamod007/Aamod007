@@ -1,9 +1,9 @@
 <h2 align="left">Hi 👋! My name is Aamod Kumar and I'm a Developer, Innovator, and Tech Explorer from Lucknow, India 🇮🇳</h2>
 
-🎓 I'm currently pursuing **B.Tech in Computer Science (AI & Data Engineering)**  
-🧠 I love exploring cutting-edge tech like **AI, IoT, Arduino, Embedded Systems, Ethical Hacking, and Web Development**  
-🎯 My mission is to build **innovative solutions** that solve real-world problems and empower others with tech  
-🛠️ Always upskilling, innovating, and thinking creatively – because good tech should **inspire and impact** ✨  
+🎓 Currently pursuing **B.Tech in Computer Science (AI & Data Engineering)**  
+🧠 Passionate about **AI, Embedded Systems, Web Development, and Ethical Hacking**  
+🚀 I love building creative tech projects that solve real-world problems and inspire innovation  
+💡 Always learning, experimenting, and pushing boundaries through code and ideas
 
 ---
 
@@ -11,49 +11,49 @@
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| 🚇 **Smart Street Light & Train Alert System** | An energy-efficient train detection and lighting system using Arduino, sensors, and ESP32-CAM for real-time surveillance. | Arduino, ESP32-CAM, LEDs, C++, Embedded C |
-| 💧 **Water Quality Index App** | A real-time WOI (Water Quality Index) measuring web app built with a team during a hackathon. | HTML, CSS, JS, Firebase, Data Analysis |
-| 💬 **AI Speech Coach Platform** *(WIP)* | A smart AI-based platform that gives real-time speech feedback, personalized training, and exercises. | React, Python, TensorFlow, Flask |
-| 🧠 **ChanakyaX – Discord Strategist Bot** | A smart, tactical Discord bot that helps you strategize instead of just chat. Inspired by ancient wisdom, built for modern minds. | Node.js, Discord.js, AI API |
-| 🌍 **Language Translator AI App** | A real-time translator for text and speech across multiple languages using AI. | Python, Google Translate API, SpeechRecognition |
-| 🧪 **AI-powered Pollution Awareness Website** | A smart portal that informs citizens about pollution levels and provides alerts, tips, and safety protocols. | HTML, CSS, JS, Arduino, ML APIs |
-| 🚗 **3D Car Portfolio Website** | A sleek 3D animated website to showcase car designs and visual tech integration. | HTML, CSS, JS, Three.js |
-| 🎮 **CODEXGAME** | A modern gaming web portal featuring blogs, tutorials, and dev resources. | HTML, CSS, JS |
+| ⚔️ **ChanakyaX – The Discord Strategist Bot** | A smart Discord bot inspired by Chanakya’s wisdom, built to help users strategize, get AI tips, quotes, and productivity tools. | TypeScript, Discord.js, OpenAI API |
+| 🚊 **Train Detection & Smart Lighting System** | An energy-efficient street lighting system that activates LEDs as the train approaches and moves using IR sensors and ESP32-CAM for surveillance. | Arduino, ESP32-CAM, C++, Embedded C |
+| 💡 **Home Automation via Bluetooth** | A low-cost home automation system that allows users to control devices using a mobile phone and Bluetooth. | Arduino Uno, HC-05, 4-Channel Relay Module, C++ |
+| 🌐 **CODEXGAME – Gaming Dev Portal** | A stylish and dynamic gaming web platform featuring blogs, tutorials, and development tools. | HTML, CSS, JavaScript |
+| 📊 **Portfolio & Product Design Website** | A responsive website designed to teach product design principles and showcase creative ideas with visual and interactive appeal. | HTML, CSS, JavaScript |
+| 🔐 **Basic Ethical Hacking Toolkit (Local)** | A terminal-based toolkit with port scanning, password brute-forcing & network sniffing scripts for learning cybersecurity. | Python, Linux Shell, Nmap, Scapy |
 
-> 💡 *Want to collaborate or contribute? Check the pinned repos or DM me on [Instagram](https://www.instagram.com/aamodkumar06/?next=%2F) or [LinkedIn](https://www.linkedin.com/in/aamod-kumar-9882782ab)*.
+> 🧠 *I love building fun, functional, and impactful things. DM me on [LinkedIn](https://www.linkedin.com/in/aamod-kumar-9882782ab) to collaborate!*
 
 ---
 
 ### 🧠 Skills & Tech Stack
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="Linux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="Arduino" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="30" alt="OpenCV" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="TensorFlow" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="30" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="Figma" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="TailwindCSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" />
 </div>
 
 ---
@@ -61,8 +61,8 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aamod007&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Aamod007&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Aamod007&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Aamod007&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="150" />
 </div>
 
 ---
@@ -86,12 +86,12 @@
 
 ---
 
-### 🔖 Fun Facts About Me
+### 🤹 Fun Facts About Me
 
-- 🤖 I built a **train detection system** that simulates real-world automation and lighting
-- 🧠 I love **philosophy**, deep thinking, and meaningful conversations
-- 💡 I turn my hobbies (like sketching, hacking, and 3D modeling) into projects
-- 👨‍💻 I’m always working on **something exciting** and believe in learning by doing
+- 🧠 I built a **Discord strategist bot** that gives real-time quotes, AI advice, and productivity boosts.
+- 🧰 I love tinkering with **hardware and software**, combining sensors, AI, and automation.
+- 💻 I turned **hacking, sketching, and 3D design** into productive hobbies.
+- 🚀 I believe in **learning by building**—and I'm always ready for the next challenge.
 
 ---
 
