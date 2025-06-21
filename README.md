@@ -1,28 +1,41 @@
-<h2 align="left">Hi 👋! My name is Aamod Kumar and I'm a Developer, Innovator, and Tech Explorer from Lucknow, India 🇮🇳</h2>
+<h2 align="left">Hi 👋! I'm Aamod Kumar — Developer, Innovator & Tech Explorer from Lucknow, India 🇮🇳</h2>
 
+🚀 Passionate about building impactful tech using **AI, IoT, Embedded Systems, and Full-Stack Development**  
 🎓 Currently pursuing **B.Tech in Computer Science (AI & Data Engineering)**  
-🧠 Passionate about **AI, Embedded Systems, Web Development, and Ethical Hacking**  
-🚀 I love building creative tech projects that solve real-world problems and inspire innovation  
-💡 Always learning, experimenting, and pushing boundaries through code and ideas
+🧠 Always curious, always experimenting — whether it’s automating a train system or building a Discord bot powered by ancient wisdom 😄  
+🌟 I believe in *learning by doing* and solving *real-world problems* with code and creativity!
 
 ---
 
-### 📌 Featured Projects
+### 🔥 Featured Projects
 
-| Project | Description | Tech Stack |
-|--------|-------------|------------|
-| ⚔️ **ChanakyaX – The Discord Strategist Bot** | A smart Discord bot inspired by Chanakya’s wisdom, built to help users strategize, get AI tips, quotes, and productivity tools. | TypeScript, Discord.js, OpenAI API |
-| 🚊 **Train Detection & Smart Lighting System** | An energy-efficient street lighting system that activates LEDs as the train approaches and moves using IR sensors and ESP32-CAM for surveillance. | Arduino, ESP32-CAM, C++, Embedded C |
-| 💡 **Home Automation via Bluetooth** | A low-cost home automation system that allows users to control devices using a mobile phone and Bluetooth. | Arduino Uno, HC-05, 4-Channel Relay Module, C++ |
-| 🌐 **CODEXGAME – Gaming Dev Portal** | A stylish and dynamic gaming web platform featuring blogs, tutorials, and development tools. | HTML, CSS, JavaScript |
-| 📊 **Portfolio & Product Design Website** | A responsive website designed to teach product design principles and showcase creative ideas with visual and interactive appeal. | HTML, CSS, JavaScript |
-| 🔐 **Basic Ethical Hacking Toolkit (Local)** | A terminal-based toolkit with port scanning, password brute-forcing & network sniffing scripts for learning cybersecurity. | Python, Linux Shell, Nmap, Scapy |
+🧠 **ChanakyaX – The Strategist Discord Bot**  
+> A smart bot that blends Chanakya’s ancient wisdom with AI-powered productivity tools. Built to help users with strategy tips, quotes, focus hacks, and goal setting.  
+🛠️ *Tech:* TypeScript · Discord.js · OpenAI API  
 
-> 🧠 *I love building fun, functional, and impactful things. DM me on [LinkedIn](https://www.linkedin.com/in/aamod-kumar-9882782ab) to collaborate!*
+🚊 **Smart Train Detection & Lighting System**  
+> An Arduino-powered system that lights up street LEDs only when a train is nearby. Optimized for energy efficiency and safety.  
+🛠️ *Tech:* Arduino · ESP32-CAM · Embedded C · LEDs  
+
+🏠 **Bluetooth-Based Home Automation**  
+> Control home appliances via smartphone using Bluetooth and Arduino. Perfect for affordable smart homes.  
+🛠️ *Tech:* Arduino Uno · HC-05 · Relay Module · C++  
+
+🌐 **CODEXGAME – Gamer's Dev Hub**  
+> A modern web platform with blogs, tutorials, and game dev resources built for creators and gamers.  
+🛠️ *Tech:* HTML · CSS · JavaScript  
+
+🧪 **Ethical Hacking Terminal Toolkit** *(For Learning)*  
+> Built a terminal-based toolkit for beginners to practice ethical hacking tasks like port scanning and packet sniffing.  
+🛠️ *Tech:* Python · Bash · Linux · Nmap  
+
+📘 **Product Design Portfolio Site**  
+> A creative and educational website to showcase modern product design principles, tools, and ideas.  
+🛠️ *Tech:* HTML · CSS · JS · Figma
 
 ---
 
-### 🧠 Skills & Tech Stack
+### 🧠 Tech Stack & Tools
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" />
@@ -39,26 +52,24 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="30" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" />
 </div>
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Aamod007&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" />
@@ -67,7 +78,7 @@
 
 ---
 
-### 🌐 Connect With Me
+### 🌐 Connect with Me
 
 <div align="left">
   <a href="https://www.instagram.com/aamodkumar06/?next=%2F" target="_blank">
@@ -86,13 +97,13 @@
 
 ---
 
-### 🤹 Fun Facts About Me
+### 🌟 Fun & Facts
 
-- 🧠 I built a **Discord strategist bot** that gives real-time quotes, AI advice, and productivity boosts.
-- 🧰 I love tinkering with **hardware and software**, combining sensors, AI, and automation.
-- 💻 I turned **hacking, sketching, and 3D design** into productive hobbies.
-- 🚀 I believe in **learning by building**—and I'm always ready for the next challenge.
+- 🛠️ I build things that solve problems creatively — whether it’s light, data, or decisions
+- 🧠 I'm known for deep thoughts, clean UI, and a love for mixing tech with art
+- 🎨 Sketching, hacking, coding — my life runs on curiosity
+- ✍️ Building my personal brand, one bold idea at a time
 
 ---
 
-⭐️ *Made with ❤️ by [Aamod007](https://github.com/Aamod007)*
+⭐️ *Made with passion by [Aamod007](https://github.com/Aamod007)*
