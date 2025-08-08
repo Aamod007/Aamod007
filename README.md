@@ -2,7 +2,7 @@
 <h3 align="center">B.Tech CSE (AI & Data Engineering) | Google Cloud Arcade '25 | Generative AI | Robotics & Embedded Systems Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&center=true&vCenter=true&width=850&lines=AI+%7C+Robotics+%7C+IoT+%7C+Automation+%7C+Python+%7C+ROS+%7C+ML+%7C+Real-World+Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Robotics+%7C+IoT+%7C+Automation+%7C+Python+%7C+ROS+%7C+ML+%7C+Real-World+Problem+Solving" alt="Typing SVG" />
 </p>
 
 ---
