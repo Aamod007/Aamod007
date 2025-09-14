@@ -20,7 +20,7 @@
 
 • 💬 Ask me about **DSA, Machine Learning, React Native, Cloud Computing & Robotics**
 
-• 📧 How to reach me: **[your.email@gmail.com](mailto:your.email@gmail.com)**
+• 📧 How to reach me: **[aamodev23@gmail.com](mailto:your.email@gmail.com)**
 
 • ⚡ Fun fact: I am an **AI Researcher** and a **Robotics Enthusiast**
 
