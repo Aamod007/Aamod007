@@ -39,6 +39,23 @@
 
 ---
 
+# 🏅 Google Cloud Skill Badges  
+
+<p align="center">
+  <a href="https://www.cloudskillsboost.google/public_profiles/cc7bfafc-38af-4e28-9145-5edad6b9c8c5">
+    <img src="https://img.shields.io/badge/View%20My%20Google%20Cloud%20Badges-4285F4?logo=googlecloud&logoColor=fff&style=for-the-badge" alt="Google Cloud Skill Badges" />
+  </a>
+</p>
+
+<p align="center">
+  <!-- Replace these sample images with real badge links from your profile -->
+  <img src="https://cdn.qwiklabs.com/assets/badges/badge1.png" height="100" />
+  <img src="https://cdn.qwiklabs.com/assets/badges/badge2.png" height="100" />
+  <img src="https://cdn.qwiklabs.com/assets/badges/badge3.png" height="100" />
+</p>
+
+---
+
 # 📊 GitHub Analytics  
 
 <p align="center">
