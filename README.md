@@ -169,11 +169,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" height="60" alt="yarn logo"  />
 </div>
 
-###
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aamod007&layout=compact&theme=dracula&hide_border=true&langs_count=10&cache_seconds=86400" alt="Top Languages" />
-</p>
-
 ## 🔗 Connect with Me
 <p align="left"> <a href="www.linkedin.com/in/aamod-kumar" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=00FFFF" alt="Aamod Kumar's LinkedIn"/></a> <a href="mailto:aamoddev23@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="Aamod Kumar's Email"/></a> <a href="https://embedded-dev.netlify.app/" target="_blank"><img align="center" src="https://img.shields.io/badge/Website-46BC99?style=for-the-badge&logo=About.me&logoColor=white" alt="Personal Website"/></a></p>
 
