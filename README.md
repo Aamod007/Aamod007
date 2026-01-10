@@ -25,9 +25,21 @@
 
 
 ## 📊 GitHub Stats & Trophies
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Aamod007&theme=dracula&hide_border=true&cache_seconds=86400" alt="Aamod007's GitHub Streak" width="49%" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aamod007&theme=dracula" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aamod007&theme=dracula" />
 </p>
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aamod007&theme=dracula" />
+</p>
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aamod007&theme=dracula" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aamod007&theme=dracula&utcOffset=5.5" />
+</p>
+
 <p align="center">
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=Aamod007&theme=dracula&radius=10" alt="Aamod007's Activity Graph" />
 </p>
