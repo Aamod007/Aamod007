@@ -182,7 +182,19 @@
 </div>
 
 ## 🔗 Connect with Me
-<p align="left"> <a href="www.linkedin.com/in/aamod-kumar/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=00FFFF" alt="Aamod Kumar's LinkedIn"/></a> <a href="mailto:aamoddev23@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="Aamod Kumar's Email"/></a> <a href="https://embedded-dev.netlify.app/" target="_blank"><img align="center" src="https://img.shields.io/badge/Website-46BC99?style=for-the-badge&logo=About.me&logoColor=white" alt="Personal Website"/></a></p>
+<p align="left">
+  <a href="https://www.linkedin.com/in/aamod-kumar/" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=00FFFF" alt="Aamod Kumar LinkedIn" />
+  </a>
+
+  <a href="mailto:aamoddev23@gmail.com" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="Aamod Kumar Email" />
+  </a>
+
+  <a href="https://embedded-dev.netlify.app/" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/Website-46BC99?style=for-the-badge&logo=About.me&logoColor=white" alt="Personal Website" />
+  </a>
+</p>
 
 ## 💬 Quote
 > Learning by building, improving by contributing.
