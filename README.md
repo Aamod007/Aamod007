@@ -73,8 +73,6 @@
   <a href="https://cloud.layer5.io/user/d8835d2f-4abf-4943-a6e7-a0c9ac727caf?tab=badges&badge=certified-meshery-contributor" alt="Certified Meshery Contributor">
     <img width="175px" height="252px" src="https://badges.layer5.io/assets/badges/certified-meshery-contributor/certified-meshery-contributor.png" alt="Certified Meshery Contributor" />
   </a>
-  <br />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup><a href="https://badges.layer5.io">Get your own badge</a></sup>
 </div>
 
 <br/>
