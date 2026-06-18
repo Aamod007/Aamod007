@@ -9,17 +9,13 @@
                             
 </p>
 
-<h3 align="center">AI & Data Engineering Enthusiast</h3>
-
+<h3 align="center">AI & Data Engineering Student</h3>
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=Aamod007">
-    <img src="https://komarev.com/ghpvc/?username=Aamod007&label=Profile%20views&color=00FFFF&style=flat-square" alt="Profile views" />
+<img src="https://i.pinimg.com/originals/f5/03/b5/f503b5d3eceb6a2e621773eb53a2f39c.gif" alt="Banner" width="100%" />
   </a>
 </p>
 
-<img src="https://i.pinimg.com/originals/ad/fc/cd/adfccd6a72515359c1c283f912b67616.gif" alt="Banner" width="100%" />
-
----
 
 ## 📌 About Me
 
@@ -31,13 +27,12 @@
 
 ## 🧠 Focus Areas
 
-| Domain | Stack |
-|---|---|
-| **MERN** | MongoDB, Express, React, Node.js |
-| **AI / ML** | PyTorch, TensorFlow, OpenCV, scikit-learn |
-| **Blockchain** | Hyperledger Fabric, smart contracts, distributed ledgers |
-| **Distributed Systems** | Docker, Kubernetes, Terraform, cloud-native pipelines |
-| **Robotics** | Arduino, Raspberry Pi, embedded C, STM32 |
+🤖 AI Agents & MCP Servers (Go, TypeScript, Model Context Protocol)
+☸️ Kubernetes & Cloud-Native Tooling (Docker, Terraform, CI/CD)
+🧠 Applied ML & Data Engineering (PyTorch, XGBoost, ETL pipelines)
+⛓️ Blockchain Integration (Hyperledger Fabric, distributed ledgers)
+🛠️ Systems Programming (Rust, Go, async backends)
+🔌 Embedded Systems & Robotics (STM32, Arduino, Raspberry Pi)
 
 ---
 
@@ -57,54 +52,46 @@
 
 ---
 
-## 📊 GitHub Activity
-
+## 📊 GitHub Stats & Trophies
 <p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=Aamod007&theme=dracula&radius=10" alt="Activity Graph" />
-</p>
-
----
-
-## 🏅 Badges & Certifications
-
-<div align="center">
-
-<div>
-  <a href="https://cloud.layer5.io/user/d8835d2f-4abf-4943-a6e7-a0c9ac727caf?tab=badges&badge=certified-meshery-contributor" alt="Certified Meshery Contributor">
-    <img width="175px" height="252px" src="https://badges.layer5.io/assets/badges/certified-meshery-contributor/certified-meshery-contributor.png" alt="Certified Meshery Contributor" />
+  <a href="https://github.com/Aamod007">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Aamod007&cache_seconds=7200&layout=compact&theme=dark&border_radius=10" alt="Aamod007's GitHub Stats" />
   </a>
-</div>
-
+  <img src="https://streak-stats.demolab.com/?user=Aamod007&theme=dark&hide_border=true&cache_seconds=86400" alt="Aamod007's GitHub Streak" width="49%" />
+</p>
+<p align="center">
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=Aamod007&theme=dark&radius=10" alt="Aamod007's Activity Graph" />
+</p>
 <br/>
 
 [![An image of @aamod007's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aamod007)](https://holopin.io/@aamod007)
 
 </div>
 
+<div align="center">
+  <a href="https://cloud.layer5.io/user/d8835d2f-4abf-4943-a6e7-a0c9ac727caf?tab=badges&badge=certified-meshery-contributor" alt="Certified Meshery Contributor">
+    <img width="175px" height="252px" src="https://badges.layer5.io/assets/badges/certified-meshery-contributor/certified-meshery-contributor.png" alt="Certified Meshery Contributor" />
+  </a>
+</div>
+
 ---
 
-## 🔗 Connect
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/aamod-kumar/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=00FFFF" alt="LinkedIn" />
-  </a>
-  <a href="mailto:aamoddev23@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="Email" />
-  </a>
-  <a href="https://embedded-dev.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Website-46BC99?style=for-the-badge&logo=About.me&logoColor=white" alt="Website" />
+## 🔗 Connect with Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/aamod-kumar/">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
+  </a>&nbsp;&nbsp;
+  <a href="https://x.com/Aamoddev23">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Twitter.svg" alt="Twitter" width="40" />
+  </a>&nbsp;&nbsp;
+  <a href="mailto:aamoddev23@gmail.com">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
+  </a>&nbsp;&nbsp;
+  <a href="https://embedded-dev.netlify.app/">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" alt="Website" width="40" />
   </a>
 </p>
 
----
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
-</picture>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" alt="Bottom Line" width="100%" />
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
+</p>
