@@ -8,12 +8,7 @@
                             ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝ ╚═════╝ ╚═════╝       ╚═════╝ ╚══════╝  ╚═══╝  
                             
 </p>
-
 <h3 align="center">AI & Data Engineering Student</h3>
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=Aamod007">
-<img src="https://i.pinimg.com/originals/f5/03/b5/f503b5d3eceb6a2e621773eb53a2f39c.gif" alt="Banner" width="100%" />
-  </a>
 </p>
 
 
