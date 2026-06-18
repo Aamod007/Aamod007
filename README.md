@@ -22,12 +22,12 @@
 
 ## 🧠 Focus Areas
 
-🤖 AI Agents & MCP Servers (Go, TypeScript, Model Context Protocol)
-☸️ Kubernetes & Cloud-Native Tooling (Docker, Terraform, CI/CD)
-🧠 Applied ML & Data Engineering (PyTorch, XGBoost, ETL pipelines)
-⛓️ Blockchain Integration (Hyperledger Fabric, distributed ledgers)
-🛠️ Systems Programming (Rust, Go, async backends)
-🔌 Embedded Systems & Robotics (STM32, Arduino, Raspberry Pi)
+- 🤖 AI Agents & MCP Servers (Go, TypeScript, Model Context Protocol)
+- ☸️ Kubernetes & Cloud-Native Tooling (Docker, Terraform, CI/CD)
+- 🧠 Applied ML & Data Engineering (PyTorch, XGBoost, ETL pipelines)
+- ⛓️ Blockchain Integration (Hyperledger Fabric, distributed ledgers)
+- 🛠️ Systems Programming (Rust, Go, async backends)
+- 🔌 Embedded Systems & Robotics (STM32, Arduino, Raspberry Pi)
 
 ---
 
