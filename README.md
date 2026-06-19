@@ -54,11 +54,11 @@
   <img src="https://streak-stats.demolab.com/?user=Aamod007&theme=dark&hide_border=true&cache_seconds=86400" alt="Aamod-Dev's GitHub Streak" width="49%" />
 </p>
 <p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=Aamod007&theme=dark&radius=10" alt="Aamod-Dev's Activity Graph" />
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=Aamod-Dev&theme=dark&radius=10" alt="Aamod-Dev's Activity Graph" />
 </p>
 <br/>
 
-[![An image of @aamod007's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aamod-dev)](https://holopin.io/@aamod-dev)
+[![An image of @aamod-dev's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aamod-dev)](https://holopin.io/@aamod-dev)
 
 </div>
 
