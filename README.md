@@ -11,10 +11,6 @@
 <h3 align="center">AI & Data Engineering Student</h3>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Aamod007&label=Profile%20views&color=00FFFF&style=flat-square" alt="Profile views" />
-</p>
-
 ## 📌 About Me
 
 - 🌱 Learning applied machine learning, data engineering workflows, and cloud-based system architecture.
