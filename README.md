@@ -58,7 +58,7 @@
 </p>
 <br/>
 
-[![An image of @aamod-dev's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aamod-dev)](https://holopin.io/@aamod-dev)
+[![An image of @aamod007's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aamod007)](https://holopin.io/@aamod007)
 
 </div>
 
