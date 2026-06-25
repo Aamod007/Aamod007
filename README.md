@@ -48,13 +48,13 @@
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
-  <a href="https://github.com/Aamod-Dev">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Aamod-Dev&cache_seconds=7200&layout=compact&theme=dark&border_radius=10" alt="Aamod-Dev's GitHub Stats" />
+  <a href="https://github.com/Aamod007">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Aamod007&cache_seconds=7200&layout=compact&theme=dark&border_radius=10" alt="Aamod007's GitHub Stats" />
   </a>
-  <img src="https://streak-stats.demolab.com/?user=Aamod-Dev&theme=dark&hide_border=true&cache_seconds=86400" alt="Aamod-Dev's GitHub Streak" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=Aamod007&theme=dark&hide_border=true&cache_seconds=86400" alt="Aamod007's GitHub Streak" width="49%" />
 </p>
 <p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=Aamod-Dev&theme=dark&radius=10" alt="Aamod-Dev's Activity Graph" />
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=Aamod007&theme=dark&radius=10" alt="Aamod007's Activity Graph" />
 </p>
 <br/>
 
