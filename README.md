@@ -1,7 +1,7 @@
 <table width="100%">
   <tr>
     <td align="left">
-      <strong>AI/ML Engineer.</strong> Building, breaking, and shipping.
+      <strong>AI/ML Engineer / Artist.</strong> Building, breaking, and shipping.
     </td>
     <td align="right">
       <a href="https://personal-blog-gamma-gold.vercel.app/">Portfolio</a> ·
@@ -13,10 +13,10 @@
 
 I build **ML pipelines, AI/ML systems, and open-source infrastructure.**
 
+▸ **Contributor** · **Hacktoberfest '25** / **GSSoC '25** / **ECWoC '26** · contributing across open-source projects<br/>
 ▸ **Mentor** · **GSSoC '26** / **SWOC '26** / **OSCG '26** · guiding contributors through open-source workflows<br/>
-▸ **Open Source Contributor** · **[QuestDB](https://github.com/questdb/questdb)** · fixed a silent bug in SYMBOL cast queries<br/>
-▸ **[Open Source Contributions](https://github.com/Aamod007)** · shipping fixes and features across multiple projects<br/>
-▸ **Amazon ML Summer School** · 2026 applicant<br/>
+▸ **Open Source Contributor** · **[Headlamp](https://github.com/kubernetes-sigs/headlamp)** / **[Meshery](https://github.com/meshery/meshery)** · contributing features and fixes<br/>
+▸ **[Amazon ML Summer School](https://www.linkedin.com/posts/aamod-kumar_amazonmlsummerschool-machinelearning-growthmindset-ugcPost-7478401654539673602-lpyZ/)** · Apprenticeship · 2026 applicant<br/>
 
 <p>
   <strong>Tech Stack ⚙️</strong>
