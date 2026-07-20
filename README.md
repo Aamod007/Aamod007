@@ -50,5 +50,6 @@ I build **ML pipelines, AI/ML systems, and open-source infrastructure.**
   <img src="https://img.shields.io/badge/Grafana-161B22?style=flat&logo=grafana&logoColor=F46800" alt="Grafana" />
   <img src="https://img.shields.io/badge/Git-161B22?style=flat&logo=git&logoColor=F05032" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-161B22?style=flat&logo=github&logoColor=FFFFFF" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Vercel-161B22?style=flat&logo=vercel&logoColor=FFFFFF" alt="Vercel" />
+  <img src="https://img.shields.io/badge/AWS-161B22?style=flat&logo=amazonaws&logoColor=FF9900" alt="AWS" />
+  <img src="https://img.shields.io/badge/Claude-161B22?style=flat&logo=anthropic&logoColor=D97757" alt="Claude" />
 </p>
