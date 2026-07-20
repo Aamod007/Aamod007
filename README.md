@@ -1,91 +1,54 @@
-<p align="center">
-                                  
-                                   █████╗  █████╗ ███╗   ███╗ ██████╗ ██████╗  ██████╗  ██████╗ ███████╗
-                                  ██╔══██╗██╔══██╗████╗ ████║██╔═══██╗██╔══██╗██╔═████╗██╔═████╗╚════██║
-                                  ███████║███████║██╔████╔██║██║   ██║██║  ██║██║██╔██║██║██╔██║    ██╔╝
-                                  ██╔══██║██╔══██║██║╚██╔╝██║██║   ██║██║  ██║████╔╝██║████╔╝██║   ██╔╝ 
-                                  ██║  ██║██║  ██║██║ ╚═╝ ██║╚██████╔╝██████╔╝╚██████╔╝╚██████╔╝   ██║  
-                                  ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝ ╚═════╝ ╚═════╝  ╚═════╝  ╚═════╝    ╚═╝  
-                                                                                                        
-</p>
-<h3 align="center">AI & Data Engineering Student</h3>
-</p>
+<table width="100%">
+  <tr>
+    <td align="left">
+      <strong>AI/ML Engineer.</strong> Building, breaking, and shipping.
+    </td>
+    <td align="right">
+      <a href="https://personal-blog-gamma-gold.vercel.app/">Portfolio</a> ·
+      <a href="https://linkedin.com/in/aamod-kumar">LinkedIn</a> ·
+      <a href="https://github.com/Aamod007">GitHub</a>
+    </td>
+  </tr>
+</table>
 
-## 📌 About Me
+I build **ML pipelines, AI/ML systems, and open-source infrastructure.**
 
-- 🌱 Learning applied machine learning, data engineering workflows, and cloud-based system architecture.
-- 👯 Looking to collaborate on AI-driven products, open-source tools, and data-centric applications.
-- 🤝 Seeking help with production ML systems, performance optimization, and scalable backend design.
+▸ **Mentor** · **GSSoC '26** / **SWOC '26** / **OSCG '26** · guiding contributors through open-source workflows<br/>
+▸ **Open Source Contributor** · **[QuestDB](https://github.com/questdb/questdb)** · fixed a silent bug in SYMBOL cast queries<br/>
+▸ **[Open Source Contributions](https://github.com/Aamod007)** · shipping fixes and features across multiple projects<br/>
+▸ **Amazon ML Summer School** · 2026 applicant<br/>
 
----
+<p>
+  <strong>Tech Stack ⚙️</strong>
+  &nbsp;&nbsp;
 
-## 🧠 Focus Areas
-
-- 🤖 AI Agents & MCP Servers (Go, TypeScript, Model Context Protocol)
-- ☸️ Kubernetes & Cloud-Native Tooling (Docker, Terraform, CI/CD)
-- 🧠 Applied ML & Data Engineering (PyTorch, XGBoost, ETL pipelines)
-- ⛓️ Blockchain Integration (Hyperledger Fabric, distributed ledgers)
-- 🛠️ Systems Programming (Rust, Go, async backends)
-- 🔌 Embedded Systems & Robotics (STM32, Arduino, Raspberry Pi)
-
----
-
-## 🛠️ Languages & Tools
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,py,rust,go,js,java" height="50" />
-  <br/><br/>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express,fastapi" height="50" />
-  <br/><br/>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,redis,sqlite,neo4j" height="50" />
-  <br/><br/>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,azure,gcp,linux" height="50" />
-  <br/><br/>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,graphql,git,github,bash" height="50" />
-</div>
-
----
-
-## 📊 GitHub Stats & Trophies
-<p align="center">
-  <a href="https://github.com/Aamod007">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Aamod007&cache_seconds=7200&layout=compact&theme=dark&border_radius=10" alt="Aamod007's GitHub Stats" />
-  </a>
-  <img src="https://streak-stats.demolab.com/?user=Aamod007&theme=dark&hide_border=true&cache_seconds=86400" alt="Aamod007's GitHub Streak" width="49%" />
-</p>
-<p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=Aamod007&theme=dark&radius=10" alt="Aamod007's Activity Graph" />
-</p>
-<br/>
-
-[![An image of @aamod007's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aamod007)](https://holopin.io/@aamod007)
-
-</div>
-
-<div align="center">
-  <a href="https://cloud.layer5.io/user/d8835d2f-4abf-4943-a6e7-a0c9ac727caf?tab=badges&badge=certified-meshery-contributor" alt="Certified Meshery Contributor">
-    <img width="175px" height="252px" src="https://badges.layer5.io/assets/badges/certified-meshery-contributor/certified-meshery-contributor.png" alt="Certified Meshery Contributor" />
-  </a>
-</div>
-
----
-
-## 🔗 Connect with Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/aamod-kumar/">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
-  </a>&nbsp;&nbsp;
-  <a href="https://x.com/Aamoddev23">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Twitter.svg" alt="Twitter" width="40" />
-  </a>&nbsp;&nbsp;
-  <a href="mailto:aamoddev23@gmail.com">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
-  </a>&nbsp;&nbsp;
-  <a href="https://embedded-dev.netlify.app/">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" alt="Website" width="40" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
+  <img src="https://img.shields.io/badge/TypeScript-161B22?style=flat&logo=typescript&logoColor=3178C6" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Python-161B22?style=flat&logo=python&logoColor=3776AB" alt="Python" />
+  <img src="https://img.shields.io/badge/Rust-161B22?style=flat&logo=rust&logoColor=FFFFFF" alt="Rust" />
+  <img src="https://img.shields.io/badge/Go-161B22?style=flat&logo=go&logoColor=00ADD8" alt="Go" />
+  <img src="https://img.shields.io/badge/JavaScript-161B22?style=flat&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Java-161B22?style=flat&logo=openjdk&logoColor=FFFFFF" alt="Java" />
+  <img src="https://img.shields.io/badge/React-161B22?style=flat&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-161B22?style=flat&logo=nextdotjs&logoColor=FFFFFF" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-161B22?style=flat&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Node.js-161B22?style=flat&logo=nodedotjs&logoColor=5FA04E" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express-161B22?style=flat&logo=express&logoColor=FFFFFF" alt="Express" />
+  <img src="https://img.shields.io/badge/Vite-161B22?style=flat&logo=vite&logoColor=646CFF" alt="Vite" />
+  <img src="https://img.shields.io/badge/MongoDB-161B22?style=flat&logo=mongodb&logoColor=47A248" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/PostgreSQL-161B22?style=flat&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MySQL-161B22?style=flat&logo=mysql&logoColor=4479A1" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Redis-161B22?style=flat&logo=redis&logoColor=FF4438" alt="Redis" />
+  <img src="https://img.shields.io/badge/SQLite-161B22?style=flat&logo=sqlite&logoColor=003B57" alt="SQLite" />
+  <img src="https://img.shields.io/badge/Docker-161B22?style=flat&logo=docker&logoColor=2496ED" alt="Docker" />
+  <img src="https://img.shields.io/badge/Kubernetes-161B22?style=flat&logo=kubernetes&logoColor=326CE5" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/Terraform-161B22?style=flat&logo=terraform&logoColor=844FBA" alt="Terraform" />
+  <img src="https://img.shields.io/badge/Azure-161B22?style=flat&logo=microsoftazure&logoColor=0078D4" alt="Azure" />
+  <img src="https://img.shields.io/badge/Google_Cloud-161B22?style=flat&logo=googlecloud&logoColor=4285F4" alt="Google Cloud" />
+  <img src="https://img.shields.io/badge/Linux-161B22?style=flat&logo=linux&logoColor=FCC624" alt="Linux" />
+  <img src="https://img.shields.io/badge/ArgoCD-161B22?style=flat&logo=argo&logoColor=EF7B4D" alt="ArgoCD" />
+  <img src="https://img.shields.io/badge/TensorFlow-161B22?style=flat&logo=tensorflow&logoColor=FF6F00" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/Grafana-161B22?style=flat&logo=grafana&logoColor=F46800" alt="Grafana" />
+  <img src="https://img.shields.io/badge/Git-161B22?style=flat&logo=git&logoColor=F05032" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-161B22?style=flat&logo=github&logoColor=FFFFFF" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Vercel-161B22?style=flat&logo=vercel&logoColor=FFFFFF" alt="Vercel" />
 </p>
