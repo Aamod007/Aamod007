@@ -13,10 +13,15 @@
 
 I build **ML pipelines, AI/ML systems, and open-source infrastructure.**
 
-▸ **Contributor** · **Hacktoberfest '25** / **GSSoC '25** / **ECWoC '26** · contributing across open-source projects<br/>
-▸ **Mentor** · **GSSoC '26** / **SWOC '26** / **OSCG '26** · guiding contributors through open-source workflows<br/>
-▸ **Open Source Contributor** · **[Headlamp](https://github.com/kubernetes-sigs/headlamp)** / **[Meshery](https://github.com/meshery/meshery)** · contributing features and fixes<br/>
-▸ **[Amazon ML Summer School](https://www.linkedin.com/posts/aamod-kumar_amazonmlsummerschool-machinelearning-growthmindset-ugcPost-7478401654539673602-lpyZ/)** · Apprenticeship · 2026 applicant<br/>
+▸ **[Hacktoberfest '25](https://www.holopin.io/@aamod007#)** · shipped merged pull requests during the October open-source sprint<br/>
+▸ **[GSSoC '25](https://www.linkedin.com/posts/aamod-kumar_gssoc2025-girlscript-opensource-activity-7378484000174235648-yzz8)** · contributed code across GirlScript's global summer of open-source<br/>
+▸ **[ECWoC '26](https://www.linkedin.com/posts/aamod-kumar_ecwoc-elitecoders-opensource-activity-7440395999417831424-BfoH)** · placed Top 50 globally at Elite Coders' Winter of Code<br/>
+▸ **[GSSoC '26](https://gssoc.girlscript.org/profile/7bf4e595-478d-4a73-a094-d1c49416c546)** · mentoring first-time contributors through their opening pull requests<br/>
+▸ **[SWOC '26](https://www.linkedin.com/posts/aamod-kumar_opensource-mentorship-techcommunity-activity-7421075766597169152-fOYs)** · steering new developers through Script Winter of Code<br/>
+▸ **[OSCG '26](https://www.linkedin.com/posts/aamod-kumar_opensource-mentorship-techcommunity-activity-7421075766597169152-fOYs)** · anchoring the Open Source Connect contributor community<br/>
+▸ **[Headlamp](https://github.com/kubernetes-sigs/headlamp)** · contributing to the Kubernetes UI for cluster management<br/>
+▸ **[Meshery](https://github.com/meshery/meshery)** · built meshery-ai-adapter, translating natural language into Kubernetes YAML<br/>
+▸ **[Amazon ML Summer School](https://www.linkedin.com/posts/aamod-kumar_amazonmlsummerschool-machinelearning-growthmindset-ugcPost-7478401654539673602-lpyZ/)** · applied for the 2026 apprenticeship cohort<br/>
 
 <p>
   <strong>Tech Stack ⚙️</strong>
@@ -50,6 +55,7 @@ I build **ML pipelines, AI/ML systems, and open-source infrastructure.**
   <img src="https://img.shields.io/badge/Grafana-161B22?style=flat&logo=grafana&logoColor=F46800" alt="Grafana" />
   <img src="https://img.shields.io/badge/Git-161B22?style=flat&logo=git&logoColor=F05032" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-161B22?style=flat&logo=github&logoColor=FFFFFF" alt="GitHub" />
-  <img src="https://img.shields.io/badge/AWS-161B22?style=flat&logo=amazonaws&logoColor=FF9900" alt="AWS" />
   <img src="https://img.shields.io/badge/Claude-161B22?style=flat&logo=anthropic&logoColor=D97757" alt="Claude" />
+  <img src="https://img.shields.io/badge/AWS-161B22?style=flat&logo=amazonaws&logoColor=FF9900" alt="AWS" />
+  <img src="https://img.shields.io/badge/Vercel-161B22?style=flat&logo=vercel&logoColor=FFFFFF" alt="Vercel" />
 </p>
