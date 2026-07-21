@@ -17,7 +17,7 @@ I build **ML pipelines, AI/ML systems, and open-source infrastructure.**
 ▸ **[GSSoC '25](https://www.linkedin.com/posts/aamod-kumar_gssoc2025-girlscript-opensource-activity-7378484000174235648-yzz8)** · contributed code across GirlScript's global summer of open-source<br/>
 ▸ **[ECWoC '26](https://www.linkedin.com/posts/aamod-kumar_ecwoc-elitecoders-opensource-activity-7440395999417831424-BfoH)** · placed Top 50 globally at Elite Coders' Winter of Code<br/>
 ▸ **[GSSoC '26](https://gssoc.girlscript.org/profile/7bf4e595-478d-4a73-a094-d1c49416c546)** · mentoring first-time contributors through their opening pull requests<br/>
-▸ **[SWOC '26](https://www.linkedin.com/posts/aamod-kumar_opensource-mentorship-techcommunity-activity-7421075766597169152-fOYs)** · steering new developers through Script Winter of Code<br/>
+▸ **[SWOC '26](https://www.linkedin.com/posts/aamod-kumar_opensource-mentorship-techcommunity-activity-7421075766597169152-fOYs)** · steering new developers through Social Winter of Code<br/>
 ▸ **[OSCG '26](https://www.linkedin.com/posts/aamod-kumar_opensource-mentorship-techcommunity-activity-7421075766597169152-fOYs)** · anchoring the Open Source Connect contributor community<br/>
 ▸ **[Headlamp](https://github.com/kubernetes-sigs/headlamp)** · contributing to the Kubernetes UI for cluster management<br/>
 ▸ **[Amazon ML Summer School](https://www.linkedin.com/posts/aamod-kumar_amazonmlsummerschool-machinelearning-growthmindset-ugcPost-7478401654539673602-lpyZ/)** · applied for the 2026 apprenticeship cohort<br/>
