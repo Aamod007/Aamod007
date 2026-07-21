@@ -20,7 +20,6 @@ I build **ML pipelines, AI/ML systems, and open-source infrastructure.**
 ▸ **[SWOC '26](https://www.linkedin.com/posts/aamod-kumar_opensource-mentorship-techcommunity-activity-7421075766597169152-fOYs)** · steering new developers through Script Winter of Code<br/>
 ▸ **[OSCG '26](https://www.linkedin.com/posts/aamod-kumar_opensource-mentorship-techcommunity-activity-7421075766597169152-fOYs)** · anchoring the Open Source Connect contributor community<br/>
 ▸ **[Headlamp](https://github.com/kubernetes-sigs/headlamp)** · contributing to the Kubernetes UI for cluster management<br/>
-▸ **[Meshery](https://github.com/meshery/meshery)** · built meshery-ai-adapter, translating natural language into Kubernetes YAML<br/>
 ▸ **[Amazon ML Summer School](https://www.linkedin.com/posts/aamod-kumar_amazonmlsummerschool-machinelearning-growthmindset-ugcPost-7478401654539673602-lpyZ/)** · applied for the 2026 apprenticeship cohort<br/>
 
 <p>
