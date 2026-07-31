@@ -4,7 +4,7 @@
       <strong>AI/ML Engineer / Artist.</strong> Building, breaking, and shipping.
     </td>
     <td align="right">
-      <a href="https://personal-blog-gamma-gold.vercel.app/">Portfolio</a> ·
+      <a href="https://www.aamodkumar.me/">Portfolio</a> ·
       <a href="https://linkedin.com/in/aamod-kumar">LinkedIn</a> ·
       <a href="https://github.com/Aamod007">GitHub</a>
     </td>
