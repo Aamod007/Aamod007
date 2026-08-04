@@ -57,3 +57,7 @@ I build **ML pipelines, AI/ML systems, and open-source infrastructure.**
   <img src="https://img.shields.io/badge/Claude-161B22?style=flat&logo=anthropic&logoColor=D97757" alt="Claude" />
   <img src="https://img.shields.io/badge/AWS-161B22?style=flat&logo=amazonaws&logoColor=FF9900" alt="AWS" />
 </p>
+
+<p align="center">
+  <img src="https://count.getloli.com/@:Aamod007" alt="Profile views" />
+</p>
